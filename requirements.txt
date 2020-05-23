@@ -1,0 +1,3 @@
+ansible
+pyvmomi
+pywinrm>=0.3.0
